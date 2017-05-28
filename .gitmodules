@@ -1,0 +1,3 @@
+[submodule "fbook/front/jwt"]
+	path = fbook/front/jwt
+	url = https://github.com/bamchoh/jwt-react-redux-auth-example
